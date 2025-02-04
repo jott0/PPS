@@ -1,2 +1,4 @@
-#
-The Classic Rock Paper Scissors using python
+# CLASSIC ROCK PAPER SCISSORS
+
+A simple Rock, paper and scissors game using Python.
+
